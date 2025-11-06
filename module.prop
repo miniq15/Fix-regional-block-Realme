@@ -1,0 +1,6 @@
+id=my-realme-region-fix
+name=My Realme Region Fix
+version=v1
+versionCode=1
+author=user
+description=Disables region lock on Realme GT 7 Pro at boot.
