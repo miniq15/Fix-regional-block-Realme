@@ -1,0 +1,4 @@
+#!/sbin/sh
+# placeholder
+ui_print "Magisk module installer script"
+exit 0
